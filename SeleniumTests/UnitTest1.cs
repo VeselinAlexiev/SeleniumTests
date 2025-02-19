@@ -2,7 +2,7 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
-namespace PikBgTests
+namespace SelenuimTests
 {
     [TestFixture]
     public class PikBgTests
